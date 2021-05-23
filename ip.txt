@@ -1,0 +1,8 @@
+<Limit GET HEAD POST> 
+order allow,deny 
+deny from 116.255.155.77
+deny from 182.118.33.6
+deny from 123.125.160.217
+deny from 1.198.49.163
+allow from all 
+</Limit>
